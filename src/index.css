@@ -1,0 +1,19 @@
+@import "flowbite";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+@layer components {
+  .paddingX {
+    @apply px-5 md:px-20;
+  }
+}
