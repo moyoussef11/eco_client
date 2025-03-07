@@ -1,4 +1,4 @@
-export const BASEURL = "https://ecoserver-production.up.railway.app/api";
+export const BASEURL = "https://eco-server-chi.vercel.app/api";
 // export const BASEURL = "http://localhost:8000/api";
 export const AUTH = "auth";
 export const REGISTER = "register";
